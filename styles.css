@@ -78,23 +78,27 @@ align-content: center;
 
 
 .education {
-  background-color: rgba(152, 212, 133, 0.376);
+  background-color: rgba(152, 112, 133, 0.376);
   position: relative;
 }
 
 
 .awards {
-
+  background-color: rgba(152, 212, 133, 0.376);
+  position: relative;
 }
 
 .skills {
-
+  background-color: rgba(152, 212, 133, 0.376);
+  position: relative;
 }
 
 .experience {
-    
+  background-color: rgba(152, 212, 133, 0.376);
+  position: relative;
 }
 
 .contact {
-
+  background-color: rgba(152, 212, 133, 0.376);
+  position: relative;
 }
